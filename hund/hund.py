@@ -17,7 +17,6 @@ def face(color):
     m[2][2]=color
     m[2][6]=color
     m[3][1]=color
-    m[3][1]=color
     m[3][7]=color
     m[4][1]=color
     m[4][7]=color
