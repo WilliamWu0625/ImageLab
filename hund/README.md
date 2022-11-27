@@ -1,5 +1,13 @@
 # Sunny skriver
 
-## Hunden är sött ok den äter skälet den kan röra den gillar vinter det är en kille hans favorit mat är hund mat kex hans färj är gul han kan spriga fort han är 5 år han heter pele.
+## Hunden är sött och den äter skelett.
+
+Den kan röra och gillar vinter.
+
+Det är en kille, hans favorit mat är hundsmat kex.
+
+Hans färj är gul och han kan springa fort.
+
+Han är 5 år och han heter Pele.
 
 <img src="hund.jpeg">
