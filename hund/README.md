@@ -1,6 +1,6 @@
 # Sunny skriver
 
-## Hunden är sött och den äter skelett.
+Hunden är sött och den äter skelett.
 
 Den kan röra och gillar vinter.
 
