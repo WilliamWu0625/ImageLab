@@ -1,0 +1,13 @@
+character("1")
+
+background(B)
+character("2")
+
+background(O)
+character("3", R)
+
+background(A)
+character("4", M)
+
+background(Y)
+character("5", G)
