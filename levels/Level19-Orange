@@ -1,0 +1,20 @@
+def my_circle(color):
+  background(color)
+  corner = (0, 0, 0)
+  m[0][0] = corner
+  m[0][7] = corner
+  m[7][0] = corner
+  m[7][7] = corner
+  m[0][1] = corner
+  m[1][0] = corner
+  m[0][6] = corner
+  m[1][7] = corner
+  m[6][0] = corner
+  m[7][1] = corner
+  m[6][7] = corner
+  m[7][6] = corner
+
+# then we call the function
+# as many times as we want
+my_circle(Y)
+my_circle((255, 165, 0))
