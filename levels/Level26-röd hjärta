@@ -1,0 +1,34 @@
+def my_heart(color):
+  m[1][1] = color
+  m[1][2] = color
+  m[1][5] = color
+  m[1][6] = color
+  m[2][0] = color
+  m[2][3] = color
+  m[2][4] = color
+  m[2][7] = color
+  m[3][0] = color
+  m[3][7] = color
+  m[4][0] = color
+  m[4][7] = color
+  m[5][1] = color
+  m[5][6] = color
+  m[6][2] = color
+  m[6][5] = color
+  m[7][3] = color
+  m[7][4] = color
+
+my_heart(R)
+
+# my heart rate (heart beats per 
+# minute)
+beats_min = 60
+
+# my heart beats per second
+beats_sec = beats_min / 60
+
+# blink_rate determines the number 
+# of blinks per second, so it 
+# should be equal to the heart  
+# beats per second
+blink_rate = beats_sec
