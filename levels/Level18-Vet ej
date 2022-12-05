@@ -1,0 +1,13 @@
+character("?", (0, 0, 88))
+
+character("!", (255, 165, 0))
+
+character("=", (148, 0, 211))
+
+background(off)
+
+character("(", (255, 235, 16))
+
+character(")", (255, 244, 108))
+
+character("+", (255, 91, 35))
