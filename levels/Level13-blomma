@@ -1,0 +1,28 @@
+background(G)
+
+# flower center
+c = Y
+m[2][2] = c
+m[3][6] = c
+m[6][3] = c
+
+# 1st flower petals
+p1 = M
+m[1][2] = p1
+m[2][1] = p1
+m[2][3] = p1
+m[3][2] = p1
+
+# 2nd flower petals
+p2 = O
+m[2][6] = p2
+m[3][5] = p2
+m[3][7] = p2
+m[4][6] = p2
+
+# 3rd flower petals
+p3 = P
+m[5][3] = p3
+m[6][2] = p3
+m[6][4] = p3
+m[7][3] = p3
