@@ -1,0 +1,15 @@
+background((255, 233, 0))
+
+heart((255, 194, 0))
+
+sparkle = (79, 255, 71)
+m[1][6] = sparkle
+m[2][5] = sparkle
+m[2][6] = sparkle
+m[2][7] = sparkle
+m[3][6] = sparkle
+m[4][1] = sparkle
+m[5][0] = sparkle
+m[5][1] = sparkle
+m[5][2] = sparkle
+m[6][1] = sparkle
