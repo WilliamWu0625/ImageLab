@@ -1,0 +1,57 @@
+eye = A
+m[4][2] = eye
+m[4][5] = eye
+
+#nose
+nose = W
+m[5][3] = nose
+m[5][4] = nose
+
+#fur
+fur = O
+m[0][1] = fur
+m[0][2] = fur
+m[0][5] = fur
+m[0][6] = fur
+m[1][1] = fur
+m[1][2] = fur
+m[1][5] = fur
+m[1][6] = fur
+m[2][2] = fur
+m[2][5] = fur
+m[2][6] = fur
+m[3][0] = fur
+m[3][1] = fur
+m[3][2] = fur
+m[3][4] = fur
+m[3][5] = fur
+m[3][6] = fur
+m[4][0] = fur
+m[4][1] = fur
+m[4][3] = fur
+m[4][6] = fur
+m[4][7] = fur
+m[5][0] = fur
+m[5][1] = fur
+m[5][2] = fur
+m[5][5] = fur
+m[5][6] = fur
+m[5][7] = fur
+m[6][0] = fur
+m[6][1] = fur
+m[6][3] = fur
+m[6][4] = fur
+m[6][5] = fur
+m[6][6] = fur
+m[6][7] = fur
+m[7][1] = fur
+m[7][2] = fur
+m[7][3] = fur
+m[7][4] = fur
+m[7][6] = fur
+m[2][1] = fur
+m[3][3] = fur
+m[3][7] = fur
+m[4][4] = fur
+m[6][2] = fur
+m[7][5] = fur
