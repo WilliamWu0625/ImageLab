@@ -1,0 +1,20 @@
+# Level 28 
+
+# The first argument of scrolling_text()
+# is the text you want to display
+
+# scrolling_text("hello")
+
+# The second argument of scrolling_text()
+# is the color of the text
+# - it is optional (default value is on)
+
+# scrolling_text("level 28", G)
+
+# The third argument of scrolling_text()
+# is the color of the background
+# - it is optional (default value is off)
+
+# scrolling_text("imagi", G, Y)
+
+scrolling_text("well done", P, A)
