@@ -1,0 +1,39 @@
+def my_circle(c1, c2):
+  background(c1)
+  m[0][0] = c2
+  m[0][1] = c2
+  m[0][6] = c2
+  m[0][7] = c2
+  m[1][0] = c2
+  m[1][7] = c2
+  m[6][0] = c2
+  m[6][7] = c2
+  m[7][0] = c2
+  m[7][1] = c2
+  m[7][6] = c2
+  m[7][7] = c2
+
+def mouth(color):
+  m[5][2] = color
+  m[6][3] = color
+  m[6][4] = color
+  m[5][5] = color
+
+def eyes(color):
+  m[2][0] = color
+  m[2][2] = color
+  m[3][1] = color
+  m[2][5] = color
+  m[2][7] = color
+  m[3][6] = color
+
+# then we call the function
+# as many times as we want
+# with any color parameters
+my_circle(Y, P)
+mouth(B)
+eyes(R)
+
+my_circle((255, 255, 0), (148, 0, 211))
+mouth((0, 0, 255))
+eyes((255, 0, 0))
