@@ -1,0 +1,16 @@
+character("x", R)
+
+background(off)
+character("y", O)
+
+background(off)
+character("z", Y)
+
+background(off)
+character("D", B)
+
+background(off)
+character("E", P)
+
+background(off)
+character("F", M)
