@@ -1,0 +1,33 @@
+def dancer(head, shirt, jeans, shoes):
+  m[0][3] = head
+  m[0][4] = head
+  m[1][3] = head
+  m[1][4] = head
+  m[2][3] = head
+  m[2][1] = shirt
+  m[3][2] = shirt
+  m[3][3] = shirt
+  m[3][4] = shirt
+  m[4][3] = shirt
+  m[4][5] = shirt
+  m[5][3] = jeans
+  m[6][2] = jeans
+  m[6][4] = jeans
+  m[7][1] = shoes
+  m[7][2] = shoes
+  m[7][4] = shoes
+  m[7][5] = shoes
+
+dancer(Y, M, B, W)
+
+# song beats per minute (bpm)
+bpm = 170
+
+# song beats per second (bps)
+bps = bpm / 60
+
+# blink_rate determines the number 
+# of blinks per second, so it 
+# should be equal to the bps
+blink_rate = bps
+ 
